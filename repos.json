@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://github.com/Forairaaaaa/mooncake.git",
+        "path": "components/mooncake",
+        "branch": "v1.2"
+    },
+    {
+        "url": "https://github.com/Forairaaaaa/arduino_lite.git",
+        "path": "components/arduino-esp32",
+        "branch": "v3.0.2"
+    },
+    {
+        "url": "https://github.com/bblanchon/ArduinoJson.git",
+        "path": "components/ArduinoJson",
+        "branch": "v7.0.4"
+    },
+    {
+        "url": "https://github.com/espressif/esp32-camera.git",
+        "path": "components/esp32-camera",
+        "branch": "v2.0.10"
+    },
+    {
+        "url": "https://github.com/Forairaaaaa/M5GFX.git",
+        "path": "components/M5GFX",
+        "branch": "0.1.16-with-arduino-as-component"
+    },
+    {
+        "url": "https://github.com/m5stack/M5Unified.git",
+        "path": "components/M5Unified",
+        "branch": "0.1.16"
+    }
+]
